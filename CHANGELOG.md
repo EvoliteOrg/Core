@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/Seyronh/Evolite/compare/v1.3.0...v1.4.0) (2026-07-24)
+
+
+### Features
+
+* :sparkles: move to organization ([ede4288](https://github.com/Seyronh/Evolite/commit/ede4288e5ae4479f93976959f47f851f1db42b0f))
+
 # [1.3.0](https://github.com/Seyronh/Evolite/compare/v1.2.1...v1.3.0) (2026-07-15)
 
 
