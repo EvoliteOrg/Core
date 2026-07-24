@@ -1,5 +1,5 @@
 {
-  "name": "evolite",
+  "name": "@evolite/core",
   "description": "A lightweight and efficient genetic algorithm library for TypeScript and JavaScript.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -12,6 +12,9 @@
   },
   "bugs": {
     "url": "https://github.com/Seyronh/Evolite/issues"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "files": [
     "LICENSE",
