@@ -23,6 +23,6 @@ npm install evolite
 
 ---
 
-### 📖 [Read the Full API Documentation & Wiki](https://seyron.is-a.dev/Evolite)
+### 📖 [Read the Full API Documentation & Wiki](https://evoliteorg.github.io/Core/)
 
 ---
