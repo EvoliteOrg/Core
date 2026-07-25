@@ -53,7 +53,7 @@ class GeneticAlgorithm<Entity extends WithFitness> {
   private optimization: Optimize;
 
   /** @internal Fitness evaluation function. */
-  private fitnessFunction?: fitnessFunction<Entity>;
+  protected fitnessFunction?: fitnessFunction<Entity>;
 
   /** @internal Strategy for selecting parents for the next generation. */
   private selectionMethod?: selectionMethod<Entity>;
