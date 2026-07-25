@@ -4,14 +4,14 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "private": false,
-  "homepage": "https://github.com/Seyronh/Evolite",
+  "homepage": "https://github.com/EvoliteOrg/Core",
   "version": "0.0.0-semantic-release",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Seyronh/Evolite.git"
+    "url": "git+https://github.com/EvoliteOrg/Core.git"
   },
   "bugs": {
-    "url": "https://github.com/Seyronh/Evolite/issues"
+    "url": "https://github.com/EvoliteOrg/Core/issues"
   },
   "publishConfig": {
     "access": "public"
