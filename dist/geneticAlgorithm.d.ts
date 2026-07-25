@@ -36,7 +36,7 @@ declare class GeneticAlgorithm<Entity extends WithFitness> {
     /** @internal Determines whether we aim to maximize or minimize the fitness. */
     private optimization;
     /** @internal Fitness evaluation function. */
-    private fitnessFunction?;
+    protected fitnessFunction?: fitnessFunction<Entity>;
     /** @internal Strategy for selecting parents for the next generation. */
     private selectionMethod?;
     /** @internal Operator to genetically alter a child individual. */

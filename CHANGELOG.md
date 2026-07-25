@@ -1,3 +1,11 @@
+## [1.4.1](https://github.com/EvoliteOrg/Core/compare/v1.4.0...v1.4.1) (2026-07-25)
+
+
+### Bug Fixes
+
+* :bug: fix package urls ([f128ef6](https://github.com/EvoliteOrg/Core/commit/f128ef61e77177f2421fba37bba51be6f7c0c3fc))
+* :hammer: change fitnessFunction visibility to protected ([a6ece6e](https://github.com/EvoliteOrg/Core/commit/a6ece6e59478bd2e9209eed7d52d6b7d8a119e1d))
+
 # [1.4.0](https://github.com/Seyronh/Evolite/compare/v1.3.0...v1.4.0) (2026-07-24)
 
 
